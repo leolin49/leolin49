@@ -9,11 +9,16 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/github/stars/leolin49?style=social)
  -->
 
+[![My Skills](https://skillicons.dev/icons?i=go,redis,cpp,mysql,mongodb,py,vim,linux,git,c,lua,django&theme=light)](https://skillicons.dev)
+
+<!-- Centering Icons -->
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,redis,cpp,mysql,mongodb,py,vim,linux,git,c,lua,django" />
   </a>
 </p>
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
