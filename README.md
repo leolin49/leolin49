@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-![](https://img.shields.io/github/followers/leolin49?logoColor=green&style=social)
-
+![](https://img.shields.io/github/followers/leolin49?style=social)
+![](https://img.shields.io/github/stars/leolin49?style=social)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,redis,cpp,mysql,mongodb,py,vim,linux,git,c,django" />
