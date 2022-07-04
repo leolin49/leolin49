@@ -4,7 +4,13 @@
 
 Here are some ideas to get you started:
 
-skill: ![](https://img.shields.io/github/followers/leolin49?logoColor=green&style=social)
+![](https://img.shields.io/github/followers/leolin49?logoColor=green&style=social)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,redis,cpp,mysql,mongodb,py,vim,linux,git,c,django" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
