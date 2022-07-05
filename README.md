@@ -21,9 +21,9 @@ Here are some ideas to get you started
   </a>
 </p>
 -->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolin49&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -34,5 +34,8 @@ Here are some ideas to get you started
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ![Leolin49's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolin49&show_icons=true&theme=gradient)
+-->
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leolin49&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leolin49's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolin49&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
