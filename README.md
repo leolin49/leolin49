@@ -9,9 +9,11 @@ Here are some ideas to get you started
 ![](https://img.shields.io/github/stars/leolin49?style=social)
  -->
  
-## Languages and Tools:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=go,redis,vim,cpp,mysql,mongodb,py,linux,git,c,lua,django&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=go,redis,cpp,mysql,mongodb,py,vim,linux,git,c,lua,django&theme=light)](https://skillicons.dev)
+### Todo List:
+[![Todo](https://skillicons.dev/icons?i=docker,kubernetes,nginx&theme=light)](https://skillicons.dev)
 
 <!-- Centering Icons -->
 <!--
@@ -37,5 +39,6 @@ Here are some ideas to get you started
 <!--
 ![Leolin49's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolin49&show_icons=true&theme=gradient)
 -->
+### Github Stats:
 | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=leolin49&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leolin49's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolin49&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
