@@ -22,6 +22,8 @@ I am interested in:
 </p>
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolin49&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -33,4 +35,4 @@ I am interested in:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=leolin49)
+![Leolin49's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolin49&show_icons=true&theme=cobalt)
