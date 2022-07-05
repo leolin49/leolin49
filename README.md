@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![GitHub fallower](https://img.shields.io/github/followers/leolin49?style=social)
+
+![Email](https://img.shields.io/badge/mail-leolin49%40qq.com-ff69b4)
+![GitHub last commit](https://img.shields.io/github/last-commit/leolin49/leolin49)
+![pv](https://pageview.vercel.app/?github_user=leolin49)
+
 **leolin49/leolin49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started
