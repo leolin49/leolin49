@@ -2,12 +2,14 @@
 
 **leolin49/leolin49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started
 
 <!-- 
 ![](https://img.shields.io/github/followers/leolin49?style=social)
 ![](https://img.shields.io/github/stars/leolin49?style=social)
  -->
+ 
+I am interested in:
 
 [![My Skills](https://skillicons.dev/icons?i=go,redis,cpp,mysql,mongodb,py,vim,linux,git,c,lua,django&theme=light)](https://skillicons.dev)
 
