@@ -17,10 +17,10 @@ Here are some ideas to get you started
  -->
  
 ### 👨‍💻Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=go,redis,vim,cpp,mysql,mongodb,py,linux,git,c,lua,django&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,redis,vim,cpp,mysql,mongodb,py,linux,git,c,lua,django&theme=dark)](https://skillicons.dev)
 
 ### 📝Todo List:
-[![Todo](https://skillicons.dev/icons?i=docker,kubernetes,nginx,cmake,rust&theme=light)](https://skillicons.dev)
+[![Todo](https://skillicons.dev/icons?i=docker,kubernetes,nginx,cmake,rust&theme=dark)](https://skillicons.dev)
 
 <!-- Centering Icons -->
 <!--
@@ -48,9 +48,9 @@ https://github.com/leoyaojy/tips/issues/11
 ![Leolin49's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolin49&show_icons=true&theme=gradient)
 -->
 ### 📊Github Stats:
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=leolin49&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leolin49's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolin49&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=leolin49&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Leolin49's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolin49&layout=compact&hide_border=true&theme=radical" /> |
 | ------------- | ------------- |
 
 ### 📫 How to reach me:
-![qq](https://img.shields.io/badge/QQ-1270448479-blueviolet?logo=tencentqq&style=social)
-![Email](https://img.shields.io/badge/mail-leolin49%40foxmail.com-ff69b4?logo=maildotru&style=social)
+![qq](https://img.shields.io/badge/QQ-1270448479-blueviolet?logo=tencentqq)
+![Email](https://img.shields.io/badge/mail-leolin49%40foxmail.com-ff69b4?logo=maildotru)
