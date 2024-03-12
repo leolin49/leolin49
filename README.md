@@ -13,4 +13,4 @@ Thanks for your visiting, good luck to you and have a great day.😄😄😄
 
 ### 📫 How to reach me:
 ![qq](https://img.shields.io/badge/QQ-1270448479-blueviolet?logo=tencentqq)
-![Email](https://img.shields.io/badge/mail-leolin49%40foxmail.com-ff69b4?logo=maildotru)
+![Email](https://img.shields.io/badge/mail-linyf49%40qq.com-ff69b4?logo=maildotru)
