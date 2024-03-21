@@ -9,12 +9,17 @@
 
 Thanks for your visiting, good luck to you and have a great day.😄😄😄
 
+### 👨‍💻Interests & 📝Todo:
+| [![My Skills](https://skillicons.dev/icons?i=go,cpp,py,redis,vim,mysql,mongodb,linux,git,lua,django,docker,kubernetes&theme=light&perline=5)](https://skillicons.dev) | [![Todo](https://skillicons.dev/icons?i=nginx,cmake,rust&theme=light)](https://skillicons.dev) |
+| ------------- | ------------- |
+
+<!--
 ### 👨‍💻Interests:
 [![My Skills](https://skillicons.dev/icons?i=go,redis,vim,cpp,mysql,mongodb,py,linux,git,lua,django,docker,kubernetes&theme=light&perline=5)](https://skillicons.dev)
 
 ### 📝Todo:
 [![Todo](https://skillicons.dev/icons?i=nginx,cmake,rust&theme=light)](https://skillicons.dev)
-
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolin49&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,5 +29,8 @@ Thanks for your visiting, good luck to you and have a great day.😄😄😄
 | ------------- | ------------- |
 
 ### 📫 How to reach me:
-![qq](https://img.shields.io/badge/QQ-1270448479-blueviolet?logo=tencentqq)
-![Email](https://img.shields.io/badge/mail-linyf49%40qq.com-ff69b4?logo=maildotru)
+![Email](https://img.shields.io/badge/Email-linyf49%40qq.com-ff69b4?logo=Gmail)
+![LC](https://img.shields.io/badge/ID-linyf_49-orange?logo=leetcode)
+![LC](https://img.shields.io/badge/ID-leolin49-yellow?logo=codeforces)
+![QQ](https://img.shields.io/badge/QQ-1270448479-blue?logo=tencentqq)
+
