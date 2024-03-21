@@ -10,7 +10,7 @@
 Thanks for your visiting, good luck to you and have a great day.😄😄😄
 
 ### 👨‍💻Interests:
-[![My Skills](https://skillicons.dev/icons?i=go,redis,vim,cpp,mysql,mongodb,py,linux,git,lua,django,docker,kubernetes&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,redis,vim,cpp,mysql,mongodb,py,linux,git,lua,django,docker,kubernetes&theme=light&perline=5)](https://skillicons.dev)
 
 ### 📝Todo:
 [![Todo](https://skillicons.dev/icons?i=nginx,cmake,rust&theme=light)](https://skillicons.dev)
