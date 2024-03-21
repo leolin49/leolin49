@@ -30,7 +30,8 @@ Thanks for your visiting, good luck to you and have a great day.😄😄😄
 
 ### 📫 How to reach me:
 ![Email](https://img.shields.io/badge/Email-linyf49%40qq.com-ff69b4?logo=Gmail)
+<!--
 ![LC](https://img.shields.io/badge/ID-linyf_49-orange?logo=leetcode)
 ![LC](https://img.shields.io/badge/ID-leolin49-yellow?logo=codeforces)
 ![QQ](https://img.shields.io/badge/QQ-1270448479-blue?logo=tencentqq)
-
+--!>
