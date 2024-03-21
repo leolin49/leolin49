@@ -9,7 +9,19 @@
 
 Thanks for your visiting, good luck to you and have a great day.😄😄😄
 
+### 👨‍💻Interests:
+[![My Skills](https://skillicons.dev/icons?i=go,redis,vim,cpp,mysql,mongodb,py,linux,git,lua,django,docker,kubernetes&theme=light)](https://skillicons.dev)
+
+### 📝Todo:
+[![Todo](https://skillicons.dev/icons?i=nginx,cmake,rust&theme=light)](https://skillicons.dev)
+
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolin49&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+### 📊Github Stats:
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=leolin49&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leolin49's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolin49&layout=compact&hide_border=true" /> |
+| ------------- | ------------- |
 
 ### 📫 How to reach me:
 ![qq](https://img.shields.io/badge/QQ-1270448479-blueviolet?logo=tencentqq)
