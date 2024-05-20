@@ -9,9 +9,31 @@
 
 ## Thanks for your visiting, good luck to you and have a great day.😄😄😄
 
+<!--
 ### 👨‍💻Interests & 📝Todo:
 | [![My Skills](https://skillicons.dev/icons?i=go,cpp,py,redis,vim,mysql,mongodb,linux,git,lua,django,docker,kubernetes&theme=light&perline=5)](https://skillicons.dev) | [![Todo](https://skillicons.dev/icons?i=nginx,cmake,rust&theme=light)](https://skillicons.dev) |
 | ------------- | ------------- |
+-->
+
+### 💻 My favorite tools and technologies
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="72" height="72" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="72" height="72" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="72" height="72" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="72" height="72" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="72" height="72" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="72" height="72" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="72" height="72" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="72" height="72" />
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://skillicons.dev/icons?i=go&theme=light" width="72" height="72" alt="go" />
+  <img src="https://skillicons.dev/icons?i=redis&theme=light" width="72" height="72" alt="go" />
+  <img src="https://skillicons.dev/icons?i=lua&theme=light" width="72" height="72" alt="lua" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" width="72" height="72" alt="linux" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="72" height="72" alt="mongodb" />
+  <img src="https://skillicons.dev/icons?i=vim&theme=light" width="72" height="72" alt="vim" />
+  <img src="https://skillicons.dev/icons?i=git&theme=light" width="72" height="72" alt="git" />
+  <img src="https://skillicons.dev/icons?i=cmake&theme=light" width="72" height="72" alt="cmake" />
 
 <!--
 ### 👨‍💻Interests:
