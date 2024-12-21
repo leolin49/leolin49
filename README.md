@@ -15,6 +15,7 @@
 | ------------- | ------------- |
 -->
 
+<!--
 ### 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="72" height="72" />
@@ -34,6 +35,7 @@
   <img src="https://skillicons.dev/icons?i=vim&theme=light" width="72" height="72" alt="vim" />
   <img src="https://skillicons.dev/icons?i=git&theme=light" width="72" height="72" alt="git" />
   <img src="https://skillicons.dev/icons?i=cmake&theme=light" width="72" height="72" alt="cmake" />
+-->
 
 <!--
 ### 👨‍💻Interests:
