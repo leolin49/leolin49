@@ -53,9 +53,10 @@
 | ------------- | ------------- |
 
 ### 📫 How to reach me:
-![Email](https://img.shields.io/badge/Email-linyf49%40qq.com-ff69b4?logo=Gmail)
+![Email](https://img.shields.io/badge/Email-linyf49%40qq.com-76BB21?logo=mailbox.org)
+![LeetCode](https://img.shields.io/badge/Leetcode-linyf_49-FFA116?logo=leetcode)
+![Codeforces](https://img.shields.io/badge/Codeforces-linyf49-1F8ACB?logo=codeforces)
+
 <!--
-![LC](https://img.shields.io/badge/ID-linyf_49-orange?logo=leetcode)
-![LC](https://img.shields.io/badge/ID-leolin49-yellow?logo=codeforces)
 ![QQ](https://img.shields.io/badge/QQ-1270448479-blue?logo=tencentqq)
---!>
+-->
