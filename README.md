@@ -3,7 +3,7 @@
 ![GitHub fallower](https://img.shields.io/github/followers/leolin49?style=social)
 -->
 
-![GitHub last commit](https://img.shields.io/github/last-commit/leolin49/leolin49)
+![GitHub last commit](https://img.shields.io/github/last-commit/leolin49/leolin49?logo=git)
 ![pv](https://pageview.vercel.app/?github_user=leolin49)
 ![repo size](https://img.shields.io/github/repo-size/leolin49/leolin49?logo=files)
 
@@ -48,7 +48,7 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolin49&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-### 📊Github Stats:
+### 📊 Github Stats:
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=leolin49&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leolin49's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolin49&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
